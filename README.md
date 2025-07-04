@@ -41,7 +41,7 @@ This dataset is made available under the [Creative Commons Attribution 4.0 Inter
 
 ---
 
-**Authors**  
+**Authors and Affiliations**  
 - Edwin Valencia-Castillo — Universidad Nacional de Cajamarca  
 - Sandra Rodriguez-Avila — Universidad Nacional de Cajamarca  
 
