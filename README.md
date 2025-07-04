@@ -31,7 +31,7 @@ All preprocessing steps, including handling of missing data, data type normaliza
 
 If you use this dataset in your research or application, please cite it as:
 
-> Valencia-Castillo, E. (2024). *Daily Climate Variables from the SENAMHI Augusto Weberbauer Station (Cajamarca, Peru), 1994–2024* [Data set]. Zenodo. https://doi.org/XXXXXXX
+> Valencia-Castillo, E., & Rodriguez-Avila, S. (2024). *Daily Climate Variables from the SENAMHI Augusto Weberbauer Station (Cajamarca, Peru), 1994–2024* [Data set]. Zenodo. https://doi.org/XXXXXXX
 
 (Replace `XXXXXXX` with your actual Zenodo DOI once available)
 
@@ -41,6 +41,11 @@ This dataset is made available under the [Creative Commons Attribution 4.0 Inter
 
 ---
 
-**Author**: Edwin Valencia-Castillo  
-**Affiliation**: Universidad Nacional de Cajamarca  
-**Contact**: evalencia@unc.edu.pe
+**Authors**  
+- Edwin Valencia-Castillo — Universidad Nacional de Cajamarca  
+- Sandra Rodriguez-Avila — Universidad Nacional de Cajamarca  
+
+**Contact**:  
+- Edwin: [evalencia@unc.edu.pe]  
+- Sandra: [srodriguez@unc.edu.pe]
+
