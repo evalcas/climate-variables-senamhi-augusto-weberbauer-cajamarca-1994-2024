@@ -25,7 +25,7 @@ The dataset contains the following daily variables:
 
 ## Processing Details
 
-All preprocessing steps, including handling of missing data, data type normalization, and column renaming, are documented in the [`limpieza_dataset.ipynb`](./limpieza_dataset.ipynb) notebook.
+All preprocessing steps, including handling of missing data, data type normalization, and column renaming, are documented in the [`Dataset_Preprocess_Senamhi30Year.ipynb`](./Dataset_Preprocess_Senamhi30Year.ipynb) notebook.
 
 ## Citation
 
@@ -42,5 +42,5 @@ This dataset is made available under the [Creative Commons Attribution 4.0 Inter
 ---
 
 **Author**: Edwin Valencia-Castillo  
-**Affiliation**: [Universidad Nacional de Cajamarca]  
-**Contact**: [evalencia@unc.edu.pe]
+**Affiliation**: Universidad Nacional de Cajamarca  
+**Contact**: evalencia@unc.edu.pe
