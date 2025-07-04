@@ -31,7 +31,7 @@ All preprocessing steps, including handling of missing data, data type normaliza
 
 If you use this dataset in your research or application, please cite it as:
 
-> Valencia-Castillo, E., & Rodriguez-Avila, S. (2024). *Daily Climate Variables from the SENAMHI Augusto Weberbauer Station (Cajamarca, Peru), 1994–2024* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15803716
+> Valencia-Castillo, E., & Rodriguez-Avila, S. (2025). *Daily Climate Variables from the SENAMHI Augusto Weberbauer Station (Cajamarca, Peru), 1994–2024* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15803716
 
 
 ## License
