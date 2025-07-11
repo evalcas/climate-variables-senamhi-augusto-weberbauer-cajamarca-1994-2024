@@ -48,3 +48,47 @@ This dataset is made available under the [Creative Commons Attribution 4.0 Inter
 - Edwin: [evalencia@unc.edu.pe]  
 - Sandra: [srodriguez@unc.edu.pe]
 
+---
+## Indicaciones para la ejecución de este proyecto
+Este proyecto contiene notebooks y scripts 
+Incluye la gestión de entornos virtuales, dependencias y ejecución con Jupyter Notebook.
+
+---
+
+## Requisitos
+
+- Python 3.8 o superior
+- Git
+- pip
+- Recomendado: Virtualenv
+
+---
+
+## Instalación
+
+Sigue estos pasos para configurar tu entorno de desarrollo local.
+
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/evalcas/climate-variables-senamhi-augusto-weberbauer-cajamarca-1994-2024.git
+cd climate-variables-senamhi-augusto-weberbauer-cajamarca-1994-2024
+
+### 2. Activa el entorno virtual
+python3 -m venv venv
+source venv/bin/activate  # macOS / Linux
+
+### 3. Instalar dependencias
+```bash
+pip install -r requirements.txt
+
+### 4. Uso de Jupyter Notebook
+```bash
+pip install notebook ipykernel
+python -m ipykernel install --user --name=venv --display-name "Python (venv)"
+
+### 5. Para inicializar Jupyter Notebook
+```bash
+jupyter notebook
+
+
