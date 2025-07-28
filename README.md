@@ -8,6 +8,9 @@ This repository contains daily climate data collected over 31 years (1994–2024
 - `Dataset_Preprocess_Senamhi30Year.ipynb`: Jupyter notebook used to clean and process the raw data.
 - `dataset_preprocessed_senamhi30Year.xlsx`: Cleaned version of the dataset with missing values handled and standardized formats.
 - `Dataset_Preprocess_Senamhi30Year.ipynb`: Jupyter notebook used to clean and process the raw data.
+- `Dataset_Imputation_Senamhi30Year.ipynb`: Jupyter notebook used to impute and process the preprocessed data.
+- `dataset_imputed_senamhi30Year.csv`: Version of the dataset with imputed data using Dataset_Imputation_Senamhi30Year.ipynb.
+
 - 
 - `LICENSE`: License under which the dataset is distributed.
 - `README.md`: This documentation file.
