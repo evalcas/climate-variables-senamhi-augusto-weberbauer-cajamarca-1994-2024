@@ -32,6 +32,10 @@ The dataset contains the following daily variables:
 
 All preprocessing steps, including handling of missing data, data type normalization, and column renaming, are documented in the [`Dataset_Preprocess_Senamhi30Year.ipynb`](./Dataset_Preprocess_Senamhi30Year.ipynb) notebook.
 
+## Imputation Details
+
+All imputation steps, including handling of imputation data, evaluation methods, and generation of data imputed, are documented in the [`Dataset_Imutation_Senamhi30Year.ipynb`](./Dataset_Imputation_Senamhi30Year.ipynb) notebook.
+
 ## Citation
 
 If you use this dataset in your research or application, please cite it as:
