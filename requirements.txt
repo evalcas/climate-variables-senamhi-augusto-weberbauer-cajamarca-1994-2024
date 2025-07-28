@@ -8,4 +8,5 @@ statsmodels
 tabulate
 antropy
 openpyxl
+pyts
 git+https://github.com/pik-copan/pyunicorn.git

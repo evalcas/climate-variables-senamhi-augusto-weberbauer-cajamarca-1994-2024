@@ -5,8 +5,10 @@ This repository contains daily climate data collected over 31 years (1994–2024
 ## Contents
 
 - `dataset_raw_senamhi30years.xlsx`: Original raw data file as obtained from the station's archive.
+- `Dataset_Preprocess_Senamhi30Year.ipynb`: Jupyter notebook used to clean and process the raw data.
 - `dataset_preprocessed_senamhi30Year.xlsx`: Cleaned version of the dataset with missing values handled and standardized formats.
 - `Dataset_Preprocess_Senamhi30Year.ipynb`: Jupyter notebook used to clean and process the raw data.
+- 
 - `LICENSE`: License under which the dataset is distributed.
 - `README.md`: This documentation file.
 
@@ -49,45 +51,46 @@ This dataset is made available under the [Creative Commons Attribution 4.0 Inter
 - Sandra: [srodriguez@unc.edu.pe]
 
 ---
-## Indicaciones para la ejecución de este proyecto
-Este proyecto contiene notebooks y scripts 
-Incluye la gestión de entornos virtuales, dependencias y ejecución con Jupyter Notebook.
+## Instructions for Executing This Project
+This project contains notebooks and scripts.  
+It includes the management of virtual environments, dependency handling, and execution using Jupyter Notebook.
+
 
 ---
 
-## Requisitos
+## Requirements
 
 - Python 3.8 o superior
 - Git
 - pip
-- Recomendado: Virtualenv
+- Recommended: Virtualenv
 
 ---
 
-## Instalación
+## Installation
 
-Sigue estos pasos para configurar tu entorno de desarrollo local.
+Follow these steps to set up your local development environment.
 
-### 1. Clonar el repositorio
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/evalcas/climate-variables-senamhi-augusto-weberbauer-cajamarca-1994-2024.git
 cd climate-variables-senamhi-augusto-weberbauer-cajamarca-1994-2024
 
-### 2. Activa el entorno virtual
+### 2. Activate the virtual environment
 python3 -m venv venv
 source venv/bin/activate  # macOS / Linux
 
-### 3. Instalar dependencias
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 
-### 4. Uso de Jupyter Notebook
+### 4. Jupyter Notebook setup
 ```bash
 pip install notebook ipykernel
 python -m ipykernel install --user --name=venv --display-name "Python (venv)"
 
-### 5. Para inicializar Jupyter Notebook
+### 5. Launch Jupyter Notebook
 ```bash
 jupyter notebook
 
